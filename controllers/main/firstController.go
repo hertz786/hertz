@@ -5,7 +5,7 @@ import (
 )
 
 func Maincont(n int) (int, int) {
-	fmt.Printf("this is function maincont from /controller/main/firstController.go")
+	fmt.Printf("\nthis is function maincont from /controller/main/firstController.go\n")
 	m := n
 	g := m + 1
 	return m, g

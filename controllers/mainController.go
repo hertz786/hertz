@@ -5,5 +5,5 @@ import (
 )
 
 func Mainconfunc() {
-	fmt.Printf("this is function mainconfunc from /controller/mainController.go")
+	fmt.Printf("this is function mainconfunc from /controller/mainController.go \n ")
 }
